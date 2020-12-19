@@ -11,7 +11,7 @@ You might be thinking there is already [Awesome Piracy](https://github.com/Iggly
 
 DDL stands for Direct Download links, provides easy to download any file over the internet, without any specific IP address. While filehosters can be paid or free to download but provide low download speeds and much much ads..
 
-## Adblockers
+## Adblockers and Important Stuff
 
 [Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en)
 
@@ -21,7 +21,29 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Energized Protection](https://energized.pro/)
 
+[IDM](https://www.internetdownloadmanager.com/)
+
+[IDM ++](https://rexdl.com/android/idm-plus-fastest-download-manager-apk.html/)
+
+[Jdownloader](https://jdownloader.org/)
+
+[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN&gl=US)
+
+[Qbitorrent](https://www.qbittorrent.org/)
+
+[Brave Browser](https://brave.com/)
+
 ## Movies and TV Shows
+
+[Cinehub](https://www.cinehub.to/)
+
+[Pahe](https://www.pahe.ph/)
+
+[Psarips]()
+
+[MovieAIO]()
+
+[SnahpIT]()
 
 ## Programs
 
@@ -43,6 +65,10 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Anime
 
+[AnYme app](https://zunjae.github.io/anymeapp.com/)
+
+[Anime List](https://www.anime-list5.site/)
+
 ## Bots and Telegram
 
 [Userge](https://github.com/UsergeTeam/Userge)
@@ -51,10 +77,26 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Music Hunters](https://t.me/MusicsHunterbot)
 
-## Teamdrive
+[Rose](https://t.me/MissRose_bot)
+
+## Teamdrive and Misc
 
 <https://td.hackgence.com/>
 
 <https://team.hackgence.com/>
 
 <https://td.fastio.me/>
+
+[Indexing](https://github.com/alx-xlx/goindex)
+
+[Index 2](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+
+[File Pursuit](https://filepursuit.com/)
+
+[World of PC YT]()
+
+[Ghost Spectre]()
+
+[RootYT]()
+
+[WenOwasis]()
