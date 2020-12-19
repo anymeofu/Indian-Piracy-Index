@@ -39,11 +39,11 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Pahe](https://www.pahe.ph/)
 
-[Psarips]()
+[Psarips](https://psarips.uk/psarips-active-domains-and-mirrors/)
 
-[MovieAIO]()
+[MovieAIO](https://t.me/MovieaioIN)
 
-[SnahpIT]()
+[Snahp.IT](https://snahp.it/)
 
 ## Programs
 
@@ -58,6 +58,8 @@ DDL stands for Direct Download links, provides easy to download any file over th
 [RevDl](https://www.revdl.com/)
 
 [RexDl](https://rexdl.com/)
+
+[KaranPC](https://karanpc.com/)
 
 ## Music
 
@@ -93,10 +95,10 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [File Pursuit](https://filepursuit.com/)
 
-[World of PC YT]()
+[World of PC YT](https://www.youtube.com/channel/UCphlFqj7Xa9INM3DIvtXUhA)
 
-[Ghost Spectre]()
+[Ghost Spectre](https://www.youtube.com/c/GHOSTSPECTRE)
 
-[RootYT]()
+[RootYT](https://root.yt/)
 
-[WenOwasis]()
+[Weboas.is](https://weboas.is/)
