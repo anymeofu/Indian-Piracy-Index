@@ -11,6 +11,8 @@ You might be thinking there is already [Awesome Piracy](https://github.com/Iggly
 
 DDL stands for Direct Download links, provides easy to download any file over the internet, without any specific IP address. While filehosters can be paid or free to download but provide low download speeds and much much ads..
 
+[Google](https://www.google.com/)
+
 ## Adblockers and Important Stuff
 
 [Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en)
