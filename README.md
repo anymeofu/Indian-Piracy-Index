@@ -45,6 +45,14 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Snahp.IT](https://snahp.it/)
 
+[Fmovies](https://fmovies.to/)
+
+[MovieMinions](https://www.movieminions.co/)
+
+[Cineb.net](https://cineb.net/)
+
+[3388 free 7 day trial](https://lite.3388.to/giveaway)
+
 ## Programs
 
 [FileCR](https://filecr.com/en/)
@@ -61,15 +69,35 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [KaranPC](https://karanpc.com/)
 
+[Pirate City](https://www.piratecity.net/)
+
+[Sadeem PC](https://www.sadeempc.com/)
+
+[Sadeem APK](https://sadeemapk.com/)
+
+[WorldSrc](https://www.worldsrc.net/)
+
+[Oceanofgames](http://oceanofgames.com/)
+
+[Fitgirl Repacks](https://fitgirl-repacks.site/)
+
 ## Music
 
+[FreeAllMusic](https://freeallmusic.top/)
+
+[EDMFULL](https://edmfull.com/)
+
 ## Books
+
+[Library Genesis](http://gen.lib.rus.ec/)
 
 ## Anime
 
 [AnYme app](https://zunjae.github.io/anymeapp.com/)
 
 [Anime List](https://www.anime-list5.site/)
+
+[9Anime](https://9anime.nl/)
 
 ## Bots and Telegram
 
@@ -102,3 +130,30 @@ DDL stands for Direct Download links, provides easy to download any file over th
 [RootYT](https://root.yt/)
 
 [Weboas.is](https://weboas.is/)
+
+[Temp Mail](https://temp-mail.org/en/option/change/)
+
+[Code With Harry](https://codewithharry.com/)
+
+[Google Camera Port Hub](https://www.celsoazevedo.com/files/android/google-camera/)
+
+[OneDrive 5TB free](https://od.wasonliu.workers.dev/)
+
+[Temp Mail xkx](https://xkx.me/mailbox/anyme@xkx.me)
+
+[Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
+
+
+## Creative Assets
+
+[Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
+
+[No hat](https://nohat.cc/)
+
+[Download Paid Font](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
+
+[GraphicEX](https://graphicex.com/)
+
+[GFextra](https://www.gfxtra31.com/)
+
+[Stock Photo Downloader](https://tomato.to/)
