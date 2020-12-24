@@ -101,6 +101,8 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Animepahe](https://animepahe.com/)
 
+[Animeout](https://www.animeout.xyz/)
+
 ## Bots and Telegram
 
 [Userge](https://github.com/UsergeTeam/Userge)
