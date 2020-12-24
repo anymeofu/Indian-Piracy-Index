@@ -99,6 +99,8 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [9Anime](https://9anime.nl/)
 
+[Animepahe](https://animepahe.com/)
+
 ## Bots and Telegram
 
 [Userge](https://github.com/UsergeTeam/Userge)
