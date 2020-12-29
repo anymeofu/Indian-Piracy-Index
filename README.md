@@ -103,6 +103,19 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Animeout](https://www.animeout.xyz/)
 
+[Hi10 Anime](https://hi10anime.com/)
+
+[Anime Kaizoku](https://animekaizoku.com/)
+
+[AniDex](https://anidex.info/)
+
+[Nyaa](https://nyaa.si/)
+
+[AniWatcher](https://aniwatcher.com/)
+
+[AnimeEncodes](https://www.animencodes.com/)
+
+
 ## Bots and Telegram
 
 [Userge](https://github.com/UsergeTeam/Userge)
