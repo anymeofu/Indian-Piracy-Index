@@ -186,3 +186,5 @@ DDL stands for Direct Download links, provides easy to download any file over th
 [GFextra](https://www.gfxtra31.com/)
 
 [Stock Photo Downloader](https://tomato.to/)
+
+[Free for Dev](https://free-for.dev)
