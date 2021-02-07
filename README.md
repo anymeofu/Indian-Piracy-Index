@@ -39,13 +39,15 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Pahe](https://www.pahe.ph/)
 
-[Psarips](https://psarips.uk/psarips-active-domains-and-mirrors/)
+[Psarips](https://psa.one/)
 
 [MovieAIO](https://t.me/MovieaioIN)
 
 [Snahp.IT](https://snahp.it/)
 
 [Fmovies](https://fmovies.to/)
+
+[Medeberiya](https://medeberiyaa.com/)
 
 [MovieMinions](https://www.movieminions.co/)
 
