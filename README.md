@@ -188,3 +188,5 @@ DDL stands for Direct Download links, provides easy to download any file over th
 [Stock Photo Downloader](https://tomato.to/)
 
 [Free for Dev](https://free-for.dev)
+
+[Awesome Repo for Developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
