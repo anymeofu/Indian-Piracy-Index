@@ -93,6 +93,8 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Anime
 
+[r/animepiracy](https://piracy.moe/) Anime Ranking of Websites - DDLs and Torrent
+
 [AnYme app](https://zunjae.github.io/anymeapp.com/)
 
 [Anime List](https://www.anime-list5.site/)
