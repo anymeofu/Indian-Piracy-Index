@@ -128,6 +128,14 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Rose](https://t.me/MissRose_bot)
 
+[Torrent to Gdrive](https://github.com/GokuMUI7/mb12)
+
+[Torrent to Gdrive with website](https://github.com/GokuMUI7/torrent-aio-bot)
+
+[Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku)
+
+[Tlegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
+
 ## Teamdrive and Misc
 
 <https://td.hackgence.com/>
@@ -139,6 +147,8 @@ DDL stands for Direct Download links, provides easy to download any file over th
 [Indexing](https://github.com/alx-xlx/goindex)
 
 [Index 2](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+
+[Praveen Bhadoo Google drive Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
 
 [File Pursuit](https://filepursuit.com/)
 
