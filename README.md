@@ -99,7 +99,7 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [AnYme app](https://zunjae.github.io/anymeapp.com/)
 
-[Anime List](https://www.anime-list5.site/)
+[Anime List](https://www.anime-list9.site/)
 
 [9Anime](https://9anime.nl/)
 
