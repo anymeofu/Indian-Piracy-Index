@@ -13,25 +13,25 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Adblockers and Important Stuff
 
-[Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en)
+[Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en) Chrome Desktop Extension for Ad-Blocking(even Youtube)
 
-[Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+[Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) Chrome Desktop Extension for Ad-Blocking(even Youtube). But More powerful
 
-[AdAway](https://adaway.org/)
+[AdAway](https://adaway.org/) Android root and non-root system wide adblocker via Vpn in non-root phones and host file in Rooted Devices. Energized addon available !
 
-[Energized Protection](https://energized.pro/)
+[Energized Protection](https://energized.pro/) Magisk Module plus Apps integration like AdAway. Provide blacklist ads links to block.
 
-[IDM](https://www.internetdownloadmanager.com/)
+[IDM](https://www.internetdownloadmanager.com/) Download Manager for Windows. Paid
 
-[IDM ++](https://rexdl.com/android/idm-plus-fastest-download-manager-apk.html/)
+[IDM ++ (now called 1DM++)](https://rexdl.com/android/idm-plus-fastest-download-manager-apk.html/)  Download manager for android with support for torrent.
 
-[Jdownloader](https://jdownloader.org/)
+[Jdownloader](https://jdownloader.org/) Best Download manager for windows. Support a hell lot of features. Best for piracy
 
-[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN&gl=US)
+[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_IN&gl=US)  A clean Torrent client for Android
 
-[Qbitorrent](https://www.qbittorrent.org/)
+[Qbitorrent](https://www.qbittorrent.org/) A Clean Torrent Client for Windows
 
-[Brave Browser](https://brave.com/)
+[Brave Browser](https://brave.com/) Ad-free Browser. Various platform Available
 
 ## Movies and TV Shows
 
@@ -136,7 +136,7 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku)
 
-[Tlegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
+[Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
 
 ## Teamdrive and Misc
 
