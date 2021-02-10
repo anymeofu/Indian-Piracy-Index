@@ -140,15 +140,17 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Teamdrive and Misc
 
-<https://td.hackgence.com/>
+Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime <https://td.hackgence.com/> 
 
-<https://team.hackgence.com/>
+A Educational site for Such Team Drive stuff <https://team.hackgence.com/>
 
-<https://td.fastio.me/>
+Another TD's Generator <https://td.fastio.me/>
 
-<https://td.msgsuite.workers.dev/> 
+Use at your own risk <https://td.msgsuite.workers.dev/> 
 
-<https://penglai.ga/>
+Use at your own risk<https://penglai.ga/>
+
+It makes TDs which are of Organization and not University <https://team.gdrive.vip/>
 
 [Indexing](https://github.com/alx-xlx/goindex)
 
