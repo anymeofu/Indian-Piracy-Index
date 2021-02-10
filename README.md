@@ -146,6 +146,10 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 <https://td.fastio.me/>
 
+<https://td.msgsuite.workers.dev/> 
+
+<https://penglai.ga/>
+
 [Indexing](https://github.com/alx-xlx/goindex)
 
 [Index 2](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
