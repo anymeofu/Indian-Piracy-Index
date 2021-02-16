@@ -1,7 +1,7 @@
 # Indian-Piracy-Index
 
-Here we will see Piracy which is relevant to India (Free of cost)
-You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.now.sh) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but my emphasis is beginners. How to start their own pirate journey I will teach. From scratch !
+Here we will see Piracy which is relevant (Free of cost).
+You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.now.sh) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but this is my list of things. How to start their own pirate journey I will teach. From scratch !
 
 ## Lets start ! What is Piracy ?
 
@@ -35,25 +35,25 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Movies and TV Shows
 
-[Cinehub](https://www.cinehub.to/)
+[Cinehub](https://www.cinehub.to/) Android App to watch Tv shows and Movies. Best app
 
-[Pahe](https://www.pahe.ph/)
+[Pahe](https://www.pahe.ph/) DDL site. Google Drive. Mega. 
 
-[Psarips](https://psa.one/)
+[Psarips](https://psa.one/) DDL site. Premium Filehosters. Zippyshare
 
-[MovieAIO](https://t.me/MovieaioIN)
+[MovieAIO](https://t.me/MovieaioIN) DDL site for Indian Content. Google Drive. Torrent
 
-[Snahp.IT](https://snahp.it/)
+[Snahp.IT](https://snahp.it/) DDL site. Dlc - Jdownloader Support. Various Hosters. Tv packs
 
-[Fmovies](https://fmovies.to/)
+[Fmovies](https://fmovies.to/) Online watching site
 
-[Medeberiya](https://medeberiyaa.com/)
+[Medeberiya](https://medeberiyaa.com/) DDL site
 
-[MovieMinions](https://www.movieminions.co/)
+[MovieMinions](https://www.movieminions.co/) DDl site
 
-[Cineb.net](https://cineb.net/)
+[Cineb.net](https://cineb.net/) Online watching
 
-[3388 free 7 day trial](https://lite.3388.to/giveaway)
+[3388 free 7 day trial](https://lite.3388.to/giveaway) Android App. Basically its Cinehub with 1080p Unlocked
 
 ## Programs
 
