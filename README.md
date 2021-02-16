@@ -11,6 +11,10 @@ You might be thinking there is already [Awesome Piracy](https://github.com/Iggly
 
 DDL stands for Direct Download links, provides easy to download any file over the internet, without any specific IP address. While filehosters can be paid or free to download but provide low download speeds and much much ads..
 
+# Disclaimer
+
+I donot own any site mentioned here. All the sites are frelly available over the internet!
+
 ## Adblockers and Important Stuff
 
 [Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en) Chrome Desktop Extension for Ad-Blocking(even Youtube)
@@ -33,6 +37,10 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Brave Browser](https://brave.com/) Ad-free Browser. Various platform Available
 
+[1.1.1.1](https://1.1.1.1/) Best DNS. Better than Google DNS
+
+[1.1.1.1 Free WARP+ data script](https://github.com/ALIILAPRO/warp-plus-cloudflare) Get free WARP+ data
+
 ## Movies and TV Shows
 
 [Cinehub](https://www.cinehub.to/) Android App to watch Tv shows and Movies. Best app
@@ -49,7 +57,7 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 [Medeberiya](https://medeberiyaa.com/) DDL site
 
-[MovieMinions](https://www.movieminions.co/) DDl site
+[MovieMinions](https://www.movieminions.co/) DDL site
 
 [Cineb.net](https://cineb.net/) Online watching
 
@@ -57,31 +65,31 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 ## Programs
 
-[FileCR](https://filecr.com/en/)
+[FileCR](https://filecr.com/en/) Windows and Mac Apps. DDL
 
-[Getintopc](https://getintopc.com/)
+[Getintopc](https://getintopc.com/) Windows and Mac Apps. DDL
 
-[Ask4PC](https://www.ask4pc.net/)
+[Ask4PC](https://www.ask4pc.net/) Windows Apps. DDL. Filmora and Adobe Applications
 
-[AC Market](https://www.acmarket.net/)
+[AC Market](https://www.acmarket.net/) Android Modded Apps Marketplace
 
-[RevDl](https://www.revdl.com/)
+[RevDl](https://www.revdl.com/) Android Modded Apps Website
 
-[RexDl](https://rexdl.com/)
+[RexDl](https://rexdl.com/) Android Modded Apps Website
 
-[KaranPC](https://karanpc.com/)
+[KaranPC](https://karanpc.com/) Windows and Mac Apps. Filehosters( Usually Premium FileHosters)
 
-[Pirate City](https://www.piratecity.net/)
+[Pirate City](https://www.piratecity.net/) Windows Apps. Filehosters( Usually Premium FileHosters)
 
-[Sadeem PC](https://www.sadeempc.com/)
+[Sadeem PC](https://www.sadeempc.com/) Windows and Mac Apps. Filehosters( Usually Premium FileHosters)
 
-[Sadeem APK](https://sadeemapk.com/)
+[Sadeem APK](https://sadeemapk.com/) Android Apps. Filehosters( Usually Premium FileHosters)
 
-[WorldSrc](https://www.worldsrc.net/)
+[WorldSrc](https://www.worldsrc.net/) Windows and Mac Apps. DDL. Movies and Music too (little library)
 
-[Oceanofgames](http://oceanofgames.com/)
+[Oceanofgames](http://oceanofgames.com/) Pc Games. DDL
 
-[Fitgirl Repacks](https://fitgirl-repacks.site/)
+[Fitgirl Repacks](https://fitgirl-repacks.site/) Pc games. Filehosters (free + Premium) . Torrent and DDLs also
 
 ## Music
 
