@@ -1,7 +1,7 @@
 # Indian-Piracy-Index
 
 Here we will see Piracy which is relevant (Free of cost).
-You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.now.sh) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but this is my list of things. How to start their own pirate journey I will teach. From scratch !
+You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.now.sh) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but this is my list of things. How to start your own pirate journey! You Can get a little help from here !
 
 ## Lets start ! What is Piracy ?
 
@@ -93,39 +93,39 @@ I donot own any site mentioned here. All the sites are frelly available over the
 
 ## Music
 
-[FreeAllMusic](https://freeallmusic.top/)
+[FreeAllMusic](https://freeallmusic.top/) DDl. Google Drive
 
-[EDMFULL](https://edmfull.com/)
+[EDMFULL](https://edmfull.com/) DDL. Filehosters
 
 ## Books
 
-[Library Genesis](http://gen.lib.rus.ec/)
+[Library Genesis](http://libgen.rs/). Best Site Hands down.
 
 ## Anime
 
 [r/animepiracy](https://piracy.moe/) Anime Ranking of Websites - DDLs and Torrent
 
-[AnYme app](https://zunjae.github.io/anymeapp.com/)
+[AnYme app](https://zunjae.github.io/anymeapp.com/) Android app for Watching Anime. Best
 
-[Anime List](https://www.anime-list9.site/)
+[Anime List](https://www.anime-list9.site/) DDL site. Best
 
-[9Anime](https://9anime.nl/)
+[9Anime](https://9anime.nl/) Online Watching
 
-[Animepahe](https://animepahe.com/)
+[Animepahe](https://animepahe.com/) Online Watching. DDL - Premium File Hosters
 
-[Animeout](https://www.animeout.xyz/)
+[Animeout](https://www.animeout.xyz/) DDL
 
-[Hi10 Anime](https://hi10anime.com/)
+[Hi10 Anime](https://hi10anime.com/) DDL
 
-[Anime Kaizoku](https://animekaizoku.com/)
+[Anime Kaizoku](https://animekaizoku.com/) DDL. Google Drive
 
-[AniDex](https://anidex.info/)
+[AniDex](https://anidex.info/) Torrent
 
-[Nyaa](https://nyaa.si/)
+[Nyaa](https://nyaa.si/) Anime Torrents. Best
 
-[AniWatcher](https://aniwatcher.com/)
+[AniWatcher](https://aniwatcher.com/) Watch Online
 
-[AnimeEncodes](https://www.animencodes.com/)
+[AnimeEncodes](https://www.animencodes.com/) DDL. ADs. Mega
 
 
 ## Bots and Telegram
