@@ -13,7 +13,7 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 # Disclaimer
 
-I donot own any site mentioned here. All the sites are frelly available over the internet!
+I donot own any site mentioned here. All the sites are freely available over the internet!
 
 ## Adblockers and Important Stuff
 
@@ -130,13 +130,17 @@ I donot own any site mentioned here. All the sites are frelly available over the
 
 ## Bots and Telegram
 
-[Userge](https://github.com/UsergeTeam/Userge)
+[Userge](https://github.com/UsergeTeam/Userge) Multi-Purpose UserBot
 
-[Deezer Music](https://t.me/DeezerMusicBot)
+[Deezer Music](https://t.me/DeezerMusicBot) Music Bot
 
-[Music Hunters](https://t.me/MusicsHunterbot)
+[Music Hunters](https://t.me/MusicsHunterbot) Music Bot
 
-[Rose](https://t.me/MissRose_bot)
+[FlacMusic Bot](http://t.me/FlacStoreBot) Flac Music
+
+[Rose](https://t.me/MissRose_bot) Group Management Bot
+
+[Bots Archive](https://t.me/BotsArchive) Archive of Usefull Bots
 
 [Torrent to Gdrive](https://github.com/GokuMUI7/mb12)
 
@@ -145,6 +149,8 @@ I donot own any site mentioned here. All the sites are frelly available over the
 [Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku)
 
 [Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
+
+[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Best
 
 ## Teamdrive and Misc
 
