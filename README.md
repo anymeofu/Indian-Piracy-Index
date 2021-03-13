@@ -99,6 +99,12 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [EDMFULL](https://edmfull.com/) DDL. Filehosters
 
+[Plus Premieres](https://www.pluspremieres.cx/) Many Hosters Available
+
+[Custom Google Search for music](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io#gsc.tab=0)
+
+[Free MP3 Downloader](https://free-mp3-download.net/) Nice
+
 ## Books
 
 [Library Genesis](http://libgen.rs/). Best Site Hands down.
