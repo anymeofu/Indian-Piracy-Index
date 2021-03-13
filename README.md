@@ -152,6 +152,30 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Bots Archive](https://t.me/BotsArchive) Archive of Usefull Bots
 
+[Modded Central](https://t.me/ModdedCentral) Apks from Mobilism Trusted
+
+[Bhadoo Cloud](https://t.me/BhadooCloud)
+
+[Torrent Bots](https://t.me/TorrentBots)
+
+[APKsAPPs Official Channel](https://t.me/droidapks)
+
+[Aryan Bots](https://t.me/aryan_bots)
+
+[Custom Whatsapp Best](https://t.me/aerolla)
+
+[Custom Instagram](https://t.me/instander)
+
+[Sources Pro Channel](https://t.me/source_pro)
+
+[Indian Flac Songs ](https://t.me/indianflacsongs) 24 Bit Quality
+
+[Release Apk Forum](https://t.me/ReleaseAPK_Forum)
+
+[Gdrive Clone Support Group](https://t.me/CloneSupport)
+
+[Torrent to Gdrive Bot](https://t.me/TorrentXbot) Dont Abuse
+
 [Torrent to Gdrive](https://github.com/GokuMUI7/mb12)
 
 [Torrent to Gdrive with website](https://github.com/GokuMUI7/torrent-aio-bot)
