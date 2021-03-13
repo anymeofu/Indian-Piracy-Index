@@ -230,3 +230,5 @@ It makes TDs which are of Organization and not University <https://team.gdrive.v
 [Free for Dev](https://free-for.dev)
 
 [Awesome Repo for Developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+[Skillshare Premium Downloader](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) https://onehack.us/t/method-to-download-any-skillshare-premium-course-using-google-colab-no-skillshare-account-needed/73493
