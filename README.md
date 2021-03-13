@@ -63,6 +63,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [3388 free 7 day trial](https://lite.3388.to/giveaway) Android App. Basically its Cinehub with 1080p Unlocked
 
+[The Archivists](https://t.me/TheArchivists) Nice Collection of theirs
+
 ## Programs
 
 [FileCR](https://filecr.com/en/) Windows and Mac Apps. DDL
@@ -209,6 +211,10 @@ It makes TDs which are of Organization and not University <https://team.gdrive.v
 [Temp Mail xkx](https://xkx.me/mailbox/anyme@xkx.me)
 
 [Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
+
+[Premium Accounts leak](https://t.me/premiumfoxfree)
+
+[Bin Generator](http://namso-gen.com)
 
 
 ## Creative Assets
