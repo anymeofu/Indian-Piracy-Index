@@ -138,6 +138,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [FlacMusic Bot](http://t.me/FlacStoreBot) Flac Music
 
+[Deezer to Drive Bot](http://t.me/deezer2drivebot) Download 24 Bit Flac from Qobuz using this bot
+
 [Rose](https://t.me/MissRose_bot) Group Management Bot
 
 [Bots Archive](https://t.me/BotsArchive) Archive of Usefull Bots
@@ -150,17 +152,29 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
 
-[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Best
+[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot)
+
+[Raymond Free Software](https://t.me/raymondfreesoftware) 1000s of Pirates Here, Very Active Community
+
+[Spamverse Groups](https://t.me/spamverse)
+
+[Netverse](https://t.me/NetVerse)
+
+[Piraverse](https://t.me/piraverse)
+
+[Telegram Indexes](https://t.me/tgindexes)
+
+[MS Gsuite Chat](https://t.me/msgsuitechat)
 
 ## Teamdrive and Misc
+ 
+Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime <https://td.hackgence.com/> Ded
 
-Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime <https://td.hackgence.com/> 
+A Educational site for Such Team Drive stuff <https://team.hackgence.com/> Ded
 
-A Educational site for Such Team Drive stuff <https://team.hackgence.com/>
+Another TD's Generator <https://td.fastio.me/> Ded
 
-Another TD's Generator <https://td.fastio.me/>
-
-Use at your own risk <https://td.msgsuite.workers.dev/> 
+Best Now <https://td.msgsuite.workers.dev/> 
 
 Use at your own risk <https://penglai.ga/>
 
@@ -171,6 +185,8 @@ It makes TDs which are of Organization and not University <https://team.gdrive.v
 [Index 2](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
 
 [Praveen Bhadoo Google drive Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+
+[Best Place to Talk About Piracy](https://onehack.us/)
 
 [File Pursuit](https://filepursuit.com/)
 
