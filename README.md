@@ -194,7 +194,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Piraverse](https://t.me/piraverse)
 
-[Telegram Indexes](https://t.me/tg_indexes)
+[Telegram Indexes](https://t.me/tg_indexs)
 
 [MS Gsuite Chat](https://t.me/msgsuitechat)
 
