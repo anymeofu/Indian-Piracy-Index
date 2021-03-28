@@ -182,9 +182,9 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku)
 
-[Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward)
+[Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward) To backup a Channel or Group. Its helpful
 
-[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot)
+[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Bugs A LOt
 
 [Raymond Free Software](https://t.me/raymondfreesoftware) 1000s of Pirates Here, Very Active Community
 
