@@ -63,7 +63,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [3388 free 7 day trial](https://lite.3388.to/giveaway) Android App. Basically its Cinehub with 1080p Unlocked
 
-[The Archivists](https://t.me/TheArchivists) Nice Collection of theirs
+[The Archivists](https://t.me/TheArchivists) Nice Collection of theirs and A Community helping learn data storage and its backups
 
 ## Programs
 
@@ -152,51 +152,53 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Bots Archive](https://t.me/BotsArchive) Archive of Usefull Bots
 
-[Modded Central](https://t.me/ModdedCentral) Apks from Mobilism Trusted
+[Modded Central](https://t.me/ModdedCentral) Apks from Mobilism #Trusted#
 
-[Bhadoo Cloud](https://t.me/BhadooCloud)
+[Bhadoo Cloud](https://t.me/BhadooCloud) Nice collection of tools and repos.
 
-[Torrent Bots](https://t.me/TorrentBots)
+[Torrent Bots](https://t.me/TorrentBots) List of All Torrent Leach Groups
 
 [APKsAPPs Official Channel](https://t.me/droidapks)
 
-[Aryan Bots](https://t.me/aryan_bots)
+[Aryan Bots](https://t.me/aryan_bots) Nice Collection of Bots. Might Be Useful
 
-[Custom Whatsapp Best](https://t.me/aerolla)
+[Custom Whatsapp Best](https://t.me/aerolla) Aerolla Whatsapp
 
-[Custom Instagram](https://t.me/instander)
+[Custom Instagram](https://t.me/instander) Instlander
 
-[Sources Pro Channel](https://t.me/source_pro)
+[Sources Pro Channel](https://t.me/source_pro) Get some best of Repos and awesome projects made by Alilia Pro
 
 [Indian Flac Songs ](https://t.me/indianflacsongs) 24 Bit Quality
 
-[Release Apk Forum](https://t.me/ReleaseAPK_Forum)
+[Release Apk Forum](https://t.me/ReleaseAPK_Forum) Forum Channel
 
-[Gdrive Clone Support Group](https://t.me/CloneSupport)
+[Gdrive Clone Support Group](https://t.me/CloneSupport) Clear your cloud cloning Questions Here
 
 [Torrent to Gdrive Bot](https://t.me/TorrentXbot) Dont Abuse
 
-[Torrent to Gdrive](https://github.com/GokuMUI7/mb12)
+[Torrent to Gdrive](https://github.com/GokuMUI7/mb12) Very Less Bugs, Self Hosted, Usable in groups
 
-[Torrent to Gdrive with website](https://github.com/GokuMUI7/torrent-aio-bot)
+[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Bugs A LOt, Pathetic Geek Bot
 
-[Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku)
+[Torrent to Gdrive with website](https://github.com/sobuj53/torrent-aio-bot) A fork of Pathetic Geek Bot, still many Bugs, Not usable in Groups
 
-[Telegram Forwarder script](https://github.com/aahnik/telegram-chat-forward) To backup a Channel or Group. Its helpful
+[Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku) Old Repo, TRy Only if others fail
 
-[Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Bugs A LOt
+[Telegram Forwarder script](hhttps://github.com/aahnik/tgcf) To backup a Channel or Group. Its helpful
 
 [Raymond Free Software](https://t.me/raymondfreesoftware) 1000s of Pirates Here, Very Active Community
 
-[Spamverse Groups](https://t.me/spamverse)
+[Spamverse Groups](https://t.me/spamverse) Very Nice community aimed to provide knowledge on piracy and provide some resources and tools which others dont dare too for free of cost
 
-[Netverse](https://t.me/NetVerse)
+[Netverse](https://t.me/NetVerse) A section of resources for Spamverse
 
-[Piraverse](https://t.me/piraverse)
+[Piraverse](https://t.me/piraverse) A section of Community for Spamverse
 
-[Telegram Indexes](https://t.me/tg_indexs)
+[Telegram Indexes](https://t.me/tg_indexs) A section of Telegram Indexes for Spamverse
 
-[MS Gsuite Chat](https://t.me/msgsuitechat)
+[MS Gsuite Chat](https://t.me/msgsuitechat) A Very Good Community Of pirates talking about data storage online.
+
+[Telegram Clone Bot](https://github.com/jagrit007/Telegram-CloneBot) Very Powerful and convient bot for cloning files from a drive to another powered by Heroku
 
 ## Teamdrive and Misc
  
