@@ -115,7 +115,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [AnYme app](https://zunjae.github.io/anymeapp.com/) Android app for Watching Anime. Best
 
-[Anime List](https://www.anime-list9.site/) DDL site. Best
+[Anime List](https://www.animdl.ir/) DDL site. Best
 
 [9Anime](https://9anime.nl/) Online Watching
 
