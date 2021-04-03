@@ -202,17 +202,11 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 ## Teamdrive and Misc
  
-Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime <https://td.hackgence.com/> Ded
+Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime 
 
-A Educational site for Such Team Drive stuff <https://team.hackgence.com/> Ded
+Best TD Generator Right Now <https://td.msgsuite.workers.dev/> 
 
-Another TD's Generator <https://td.fastio.me/> Ded
-
-Best Now <https://td.msgsuite.workers.dev/> 
-
-Use at your own risk <https://penglai.ga/>
-
-It makes TDs which are of Organization and not University <https://team.gdrive.vip/>
+Another Team Drive Generator <https://penglai.ga/>
 
 [Indexing](https://github.com/alx-xlx/goindex)
 
@@ -238,15 +232,15 @@ It makes TDs which are of Organization and not University <https://team.gdrive.v
 
 [Google Camera Port Hub](https://www.celsoazevedo.com/files/android/google-camera/)
 
-[OneDrive 5TB free](https://od.wasonliu.workers.dev/)
+[OneDrive 5TB free](https://od.wasonliu.workers.dev/) Get A1 Office 365 + 5TB Storage online
 
-[Temp Mail xkx](https://xkx.me/mailbox/anyme@xkx.me)
+[Temp Mail xkx](https://xkx.me/mailbox) Temp Mail Generator
 
-[Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb)
+[Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) Torrent to Gdrive Colab
 
-[Premium Accounts leak](https://t.me/premiumfoxfree)
+[Premium Accounts leak](https://t.me/premiumfoxfree) Premium Bin and accounts Channel
 
-[Bin Generator](http://namso-gen.com)
+[Bin Generator](http://namso-gen.com) Fake CC Generator
 
 
 ## Creative Assets
@@ -263,10 +257,10 @@ It makes TDs which are of Organization and not University <https://team.gdrive.v
 
 [GFextra](https://www.gfxtra31.com/)
 
-[Stock Photo Downloader](https://tomato.to/)
+[Stock Photo Downloader](https://tomato.to/) Get Free Stock Photos Here
 
-[Free for Dev](https://free-for.dev)
+[Free for Dev](https://free-for.dev) Helpful tools for Developers
 
-[Awesome Repo for Developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+[Awesome Repo for Developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) Helpful tools for Developers
 
-[Skillshare Premium Downloader](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) https://onehack.us/t/method-to-download-any-skillshare-premium-course-using-google-colab-no-skillshare-account-needed/73493
+[Skillshare Premium Downloader](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) https://onehack.us/t/method-to-download-any-skillshare-premium-course-using-google-colab-no-skillshare-account-needed/73493 Allows to download premium Skillshare Courses right to your Gdrive.
