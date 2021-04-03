@@ -103,7 +103,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Custom Google Search for music](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io#gsc.tab=0)
 
-[Free MP3 Downloader](https://free-mp3-download.net/) Nice
+[Free MP3 Downloader](https://free-mp3-download.net/) Direct Link downloader and even has Flac Quality
 
 ## Books
 
@@ -208,29 +208,25 @@ Best TD Generator Right Now <https://td.msgsuite.workers.dev/>
 
 Another Team Drive Generator <https://penglai.ga/>
 
-[Indexing](https://github.com/alx-xlx/goindex)
+[Indexing](https://github.com/alx-xlx/goindex) Index your team drive and make it more usable
 
-[Index 2](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+[Praveen Bhadoo Google drive Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index) Probably the best indexer with tons of features and is updated as well
 
-[Praveen Bhadoo Google drive Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index)
+[Best Place to Talk About Piracy](https://onehack.us/) Best Site to learn and catch up piracy related contents
 
-[Best Place to Talk About Piracy](https://onehack.us/)
+[File Pursuit](https://filepursuit.com/) Search For Open directory Files
 
-[File Pursuit](https://filepursuit.com/)
+[World of PC YT](https://www.youtube.com/channel/UCphlFqj7Xa9INM3DIvtXUhA) Custom Windows 10
 
-[World of PC YT](https://www.youtube.com/channel/UCphlFqj7Xa9INM3DIvtXUhA)
+[Ghost Spectre](https://www.youtube.com/c/GHOSTSPECTRE) Custom Windows 10
 
-[Ghost Spectre](https://www.youtube.com/c/GHOSTSPECTRE)
+[Weboas.is](https://weboas.is/) A better Piracy related Home Page
 
-[RootYT](https://root.yt/)
+[Temp Mail](https://temp-mail.org/en/option/change/) Temporary Mail Generator
 
-[Weboas.is](https://weboas.is/)
+[Code With Harry](https://codewithharry.com/) Free Programming Courses
 
-[Temp Mail](https://temp-mail.org/en/option/change/)
-
-[Code With Harry](https://codewithharry.com/)
-
-[Google Camera Port Hub](https://www.celsoazevedo.com/files/android/google-camera/)
+[Google Camera Port Hub](https://www.celsoazevedo.com/files/android/google-camera/) Google Camera Ports for various devices
 
 [OneDrive 5TB free](https://od.wasonliu.workers.dev/) Get A1 Office 365 + 5TB Storage online
 
@@ -245,17 +241,17 @@ Another Team Drive Generator <https://penglai.ga/>
 
 ## Creative Assets
 
-[Babiato Forum](https://babiato.co/) Best
+[Babiato Forum](https://babiato.co/) Best Forum For Digital assets and Piracy ( Android Modded Apps)
 
 [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches)
 
-[No hat](https://nohat.cc/)
+[No hat](https://nohat.cc/) Get free premium Stock Photos Here
 
-[Download Paid Font](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
+[Download Paid Font](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Reddit Forum explaining how to download any font 
 
-[GraphicEX](https://graphicex.com/)
+[GraphicEX](https://graphicex.com/) Site for downloading Digital Assets
 
-[GFextra](https://www.gfxtra31.com/)
+[GFextra](https://www.gfxtra31.com/) Extensive Site for Digital Assets. You Can Get Any Asset here
 
 [Stock Photo Downloader](https://tomato.to/) Get Free Stock Photos Here
 
