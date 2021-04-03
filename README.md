@@ -194,7 +194,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Piraverse](https://t.me/piraverse) A section of Community for Spamverse
 
-[Telegram Indexes](https://t.me/tg_indexs) A section of Telegram Indexes for Spamverse
+[Telegram Indexes](https://t.me/tg_indexs) channel aimed at making neat & categorised index of pirated sites/apps & other awesome services.
 
 [MS Gsuite Chat](https://t.me/msgsuitechat) A Very Good Community Of pirates talking about data storage online.
 
@@ -227,8 +227,6 @@ Another Team Drive Generator <https://penglai.ga/>
 [Code With Harry](https://codewithharry.com/) Free Programming Courses
 
 [Google Camera Port Hub](https://www.celsoazevedo.com/files/android/google-camera/) Google Camera Ports for various devices
-
-[OneDrive 5TB free](https://od.wasonliu.workers.dev/) Get A1 Office 365 + 5TB Storage online
 
 [Temp Mail xkx](https://xkx.me/mailbox) Temp Mail Generator
 
