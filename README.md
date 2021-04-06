@@ -236,6 +236,8 @@ Another Team Drive Generator <https://penglai.ga/>
 
 [Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) Torrent to Gdrive Colab
 
+[Web Qbittorent](https://github.com/sobuj53/web_qbittorrent) Torrent to gdrive colab via qbitoorent running on RDP
+
 [Premium Accounts leak](https://t.me/premiumfoxfree) Premium Bin and accounts Channel
 
 [Bin Generator](http://namso-gen.com) Fake CC Generator
