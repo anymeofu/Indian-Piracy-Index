@@ -184,7 +184,11 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku) Old Repo, TRy Only if others fail
 
+[Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot) Mirror bot for all your needs
+
 [Telegram Forwarder script](hhttps://github.com/aahnik/tgcf) To backup a Channel or Group. Its helpful
+
+[EasyClone](https://github.com/xd003/easyclone) Script thats very easy to use
 
 [Raymond Free Software](https://t.me/raymondfreesoftware) 1000s of Pirates Here, Very Active Community
 
@@ -258,3 +262,5 @@ Another Team Drive Generator <https://penglai.ga/>
 [Awesome Repo for Developers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) Helpful tools for Developers
 
 [Skillshare Premium Downloader](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) https://onehack.us/t/method-to-download-any-skillshare-premium-course-using-google-colab-no-skillshare-account-needed/73493 Allows to download premium Skillshare Courses right to your Gdrive.
+
+[Envato Assests download and many others](https://trannamphong.top/tk/chia-se-tai-kh໐an-mien-phi) Envato, Freepik etc premium Asswts download trick , Only works in opera browser
