@@ -242,6 +242,8 @@ Another Team Drive Generator <https://penglai.ga/>
 
 [Bin Generator](http://namso-gen.com) Fake CC Generator
 
+[Free Domain](http://freenom.com/) Get free domain for a year
+
 
 ## Creative Assets
 
