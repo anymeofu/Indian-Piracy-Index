@@ -1,7 +1,7 @@
 # Indian-Piracy-Index
 
 Here we will see Piracy which is relevant (Free of cost).
-You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.now.sh) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but this is my list of things. How to start your own pirate journey! You Can get a little help from here !
+You might be thinking there is already [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy), [r/Piracy](https://www.reddit.com/r/Piracy/wiki/index), [r/Freemediahechyeah](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) and [Warezz](https://piracy.vercel.app/) , then why this, most these are very comprehensive list of sites. I wont be talking much of options, but this is my list of things. How to start your own pirate journey! You Can get a little help from here !
 
 ## Lets start ! What is Piracy ?
 
