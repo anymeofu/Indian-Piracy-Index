@@ -190,7 +190,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot) Mirror bot for all your needs
 
-[Telegram Forwarder script](hhttps://github.com/aahnik/tgcf) To backup a Channel or Group. Its helpful
+[Telegram Forwarder Script](https://github.com/aahnik/tgcf) To backup a Channel or Group. Its helpful
 
 [EasyClone](https://github.com/xd003/easyclone) Script thats very easy to use
 
