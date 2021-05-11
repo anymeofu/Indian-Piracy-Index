@@ -95,6 +95,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Fitgirl Repacks](https://fitgirl-repacks.site/) Pc games. Filehosters (free + Premium) . Torrent and DDLs also
 
+[GameArena](http://g4gamearena.herokuapp.com/) Pc games. Gdrive Links
+
 ## Music
 
 [FreeAllMusic](https://freeallmusic.top/) DDl. Google Drive
@@ -245,6 +247,8 @@ Another Team Drive Generator <https://penglai.ga/>
 [Bin Generator](http://namso-gen.com) Fake CC Generator
 
 [Free Domain](http://freenom.com/) Get free domain for a year
+
+[Microsoft Office 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program) [Get free Microsoft Office 365 Enterprise + 5TB Onedrive for 90 Days
 
 
 ## Creative Assets
