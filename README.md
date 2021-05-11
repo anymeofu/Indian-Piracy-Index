@@ -115,7 +115,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [r/animepiracy](https://piracy.moe/) Anime Ranking of Websites - DDLs and Torrent
 
-[AnYme app](https://zunjae.github.io/anymeapp.com/) Android app for Watching Anime. Best
+[AnYme app](https://zunjae.github.io/anymeapp.com/) Android app for Watching Anime. Was Best. Wasted
 
 [Anime List](https://www.animdl.ir/) DDL site. Best
 
