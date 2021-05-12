@@ -273,4 +273,6 @@ Another Team Drive Generator <https://penglai.ga/>
 
 [Skillshare Premium Downloader](https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_%5B1hack%5D.ipynb) https://onehack.us/t/method-to-download-any-skillshare-premium-course-using-google-colab-no-skillshare-account-needed/73493 Allows to download premium Skillshare Courses right to your Gdrive.
 
-[Envato Assests download and many others](https://trannamphong.top/tk/chia-se-tai-kh໐an-mien-phi) Envato, Freepik etc premium Asswts download trick , Only works in opera browser
+[Envato Assests download and many others](https://trannamphong.top/tk/chia-se-tai-kh໐an-mien-phi) Envato, Freepik etc premium Asswts download trick , Only works in opera browser (down)
+
+[Gift4Designers](https://gift4designer.net/) Google drive links, Premiuim Dgital Assets
