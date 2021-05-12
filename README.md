@@ -276,3 +276,5 @@ Another Team Drive Generator <https://penglai.ga/>
 [Envato Assests download and many others](https://trannamphong.top/tk/chia-se-tai-kh໐an-mien-phi) Envato, Freepik etc premium Asswts download trick , Only works in opera browser (down)
 
 [Gift4Designers](https://gift4designer.net/) Google drive links, Premiuim Dgital Assets
+
+[Envato Elements downloader](https://qltien.com/elements/getcode/babiato.html) DDL for any Envato Assets, Freepik and Pikbest support added !
