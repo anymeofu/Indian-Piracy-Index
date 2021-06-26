@@ -240,7 +240,11 @@ Another Team Drive Generator <https://penglai.ga/>
 
 [Colab Torrent to Gdruve](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) Torrent to Gdrive Colab
 
+[Colab Torrent To Gdrive](https://github.com/cheems/Torrents-to-Google-Drive) Alternate one try this
+
 [Web Qbittorent](https://github.com/sobuj53/web_qbittorrent) Torrent to gdrive colab via qbitoorent running on RDP
+
+[Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) Some Interesting colab uses
 
 [Premium Accounts leak](https://t.me/premiumfoxfree) Premium Bin and accounts Channel
 
