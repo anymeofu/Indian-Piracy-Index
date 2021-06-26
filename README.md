@@ -49,7 +49,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Pahe](https://www.pahe.ph/) DDL site. Google Drive. Mega. 
 
-[Psarips](https://psa.one/) DDL site. Premium Filehosters. Zippyshare
+[Psarips](https://x265.club/) DDL site. Premium Filehosters. Zippyshare
 
 [MovieAIO](https://t.me/MovieaioIN) DDL site for Indian Content. Google Drive. Torrent
 
@@ -246,7 +246,7 @@ Another Team Drive Generator <https://penglai.ga/>
 
 [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) Some Interesting colab uses
 
-[Premium Accounts leak](https://t.me/premiumfoxfree) Premium Bin and accounts Channel
+[Premium Accounts leak](https://t.me/premiumfoxfree) Premium Bin and accounts Channel (Inactive Now)
 
 [Bin Generator](http://namso-gen.com) Fake CC Generator
 
