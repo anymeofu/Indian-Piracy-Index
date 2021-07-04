@@ -67,6 +67,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [The Archivists](https://t.me/TheArchivists) Nice Collection of theirs and A Community helping learn data storage and its backups
 
+[PrivateMoviez](https://privatemoviez.com/) Contains Good Quality Movies and some 60FPS Movies as well..
+
 ## Programs
 
 [FileCR](https://filecr.com/en/) Windows and Mac Apps. DDL
