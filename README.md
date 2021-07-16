@@ -184,6 +184,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Torrent to Gdrive](https://github.com/GokuMUI7/mb12) Very Less Bugs, Self Hosted, Usable in groups
 
+[MSGSUITE Clonebot](https://github.com/MsGsuite/CloneBot) A bot that can clone your Team drive files with the use of Service Accounts
+
 [Torrent AIO Bot](https://github.com/patheticGeek/torrent-aio-bot) Bugs A LOt, Pathetic Geek Bot
 
 [Torrent to Gdrive with website](https://github.com/sobuj53/torrent-aio-bot) A fork of Pathetic Geek Bot, still many Bugs, Not usable in Groups
@@ -214,13 +216,15 @@ I donot own any site mentioned here. All the sites are freely available over the
  
 Team Drive Generator link, Unlimited Gdrive Storage, Use only for testing, as data can be deleted anytime 
 
-Best TD Generator Right Now <https://td.msgsuite.workers.dev/> 
+Best TD Generator Right Now <https://td.msgsuite.workers.dev/> , [JOIN MSGSUITE CHAT](t.me/msgsuitechat)
 
 Another Team Drive Generator <https://penglai.ga/>
 
 [Indexing](https://github.com/alx-xlx/goindex) Index your team drive and make it more usable
 
-[Praveen Bhadoo Google drive Index](https://github.com/ParveenBhadooOfficial/Google-Drive-Index) Probably the best indexer with tons of features and is updated as well
+[Praveen Bhadoo Google drive Index](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) Probably the best indexer with tons of features and is updated as well
+
+[Anymeofyou's Repo of Google Drive Index](https://github.com/anymeofu/GDI) Parveen Bhadoo's Repo Fork
 
 [Best Place to Talk About Piracy](https://onehack.us/) Best Site to learn and catch up piracy related contents
 
