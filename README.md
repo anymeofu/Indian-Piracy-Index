@@ -93,6 +93,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [WorldSrc](https://www.worldsrc.net/) Windows and Mac Apps. DDL. Movies and Music too (little library)
 
+[Monkrus's Adobe Cracks](http://w14.monkrus.ws/) Best Place to find Adobe Cracks
+
 [Oceanofgames](http://oceanofgames.com/) Pc Games. DDL
 
 [Fitgirl Repacks](https://fitgirl-repacks.site/) Pc games. Filehosters (free + Premium) . Torrent and DDLs also
@@ -114,6 +116,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 ## Books
 
 [Library Genesis](http://libgen.rs/). Best Site Hands down.
+
+[Book Asia](https://b-ok.asia/) Another Big Library of Books
 
 ## Anime
 
@@ -140,6 +144,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 [AniWatcher](https://aniwatcher.com/) Watch Online
 
 [AnimeEncodes](https://www.animencodes.com/) DDL. ADs. Mega
+
+[Hakuneko App](https://github.com/manga-download/hakuneko) Anime and Manga Downloader for Windows only
 
 
 ## Bots and Telegram
