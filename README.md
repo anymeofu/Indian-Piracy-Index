@@ -122,8 +122,11 @@ I donot own any site mentioned here. All the sites are freely available over the
 ## Manga Reading Websites
 
 [Mangakakalot](https://mangakakalot.com/) All the latest Manga available here.
+
 [Manganato](https://manganato.com/) Another site for Latest Manga updates same as Mangakakalot.
+
 [MangaLife](https://manga4life.com/) best site for free manga.
+
 [MangaPark](https://mangapark.net/) 
 
 ## Anime
