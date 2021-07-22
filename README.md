@@ -119,6 +119,10 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Book Asia](https://b-ok.asia/) Another Big Library of Books
 
+## Light Novels
+
+[JNovels](https://jnovels.com/) Direct link for downloading your favourite light novels.
+
 ## Manga Reading Websites
 
 [Mangakakalot](https://mangakakalot.com/) All the latest Manga available here.
