@@ -123,6 +123,18 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [JNovels](https://jnovels.com/) Direct link for downloading your favourite light novels.
 
+[Mp4Directs](https://mp4directs.com/) download or read free light novels as well as your favourite Manga.
+
+[KissLightNovels](https://kisslightnovels.info/) big library for light novels of various genres
+
+[LightNovelPub](https://www.lightnovelpub.com/) best library for finding light novels.
+
+[NovelFull](https://novelfull.com/) different categories of asian Novels here.
+
+[Wuxia World](https://wuxiaworld.site/) another big library for asian novels.
+
+[ThatNovelCorner](https://thatnovelcorner.com/) latest Novels here.
+
 ## Manga Reading Websites
 
 [Mangakakalot](https://mangakakalot.com/) All the latest Manga available here.
