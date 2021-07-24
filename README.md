@@ -135,6 +135,10 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [ThatNovelCorner](https://thatnovelcorner.com/) latest Novels here.
 
+[JustLightNovels](https://www.justlightnovels.com/) for downloading full or selected chapters of your favourite light novels.
+
+[JPMTL](https://jpmtl.com/) it's best site for light novel updates and for reading and downloading.
+
 ## Manga Reading Websites
 
 [Mangakakalot](https://mangakakalot.com/) All the latest Manga available here.
@@ -143,7 +147,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [MangaLife](https://manga4life.com/) best site for free manga.
 
-[MangaPark](https://mangapark.net/) 
+[MangaPark](https://mangapark.net/) huge library for manga.
 
 ## Anime
 
