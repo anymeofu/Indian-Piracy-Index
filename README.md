@@ -101,6 +101,12 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [GameArena](http://g4gamearena.herokuapp.com/) Pc games. Gdrive Links
 
+[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) Activate Windows with ease
+
+[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) A single Microsoft Activator for all your needs
+
+[Office Tool Plus](https://github.com/YerongAI/Office-Tool) A multipupose Activation Tool
+
 ## Music
 
 [FreeAllMusic](https://freeallmusic.top/) DDl. Google Drive
