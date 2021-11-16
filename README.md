@@ -246,7 +246,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Netverse](https://t.me/NetVerse) A section of resources for Spamverse
 
-[Piraverse](https://t.me/piraverse) A section of Community for Spamverse
+[Pirazeparty](https://t.me/pirazeparty) A section of Community for Spamverse
 
 [Telegram Indexes](https://t.me/tg_indexs) channel aimed at making neat & categorised index of pirated sites/apps & other awesome services.
 
