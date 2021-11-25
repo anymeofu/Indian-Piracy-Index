@@ -99,8 +99,6 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Fitgirl Repacks](https://fitgirl-repacks.site/) Pc games. Filehosters (free + Premium) . Torrent and DDLs also
 
-[GameArena](http://g4gamearena.herokuapp.com/) Pc games. Gdrive Links
-
 [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) Activate Windows with ease
 
 [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) A single Microsoft Activator for all your needs
@@ -234,7 +232,9 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Torrent to Gdrive 2](https://github.com/GokuMUI7/magneto-heroku) Old Repo, TRy Only if others fail
 
-[Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot) Mirror bot for all your needs
+[Slam Mirror Bot](https://github.com/iamLiquidX/MirLeechX) Mirror bot for all your needs. Latest Stable repo
+
+[Mirror Leech Telegram Bot](https://github.com/anasty17/mirror-leech-telegram-bot) Slam Mirror Bot + Extra mods 
 
 [Telegram Forwarder Script](https://github.com/aahnik/tgcf) To backup a Channel or Group. Its helpful
 
