@@ -49,7 +49,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Pahe](https://www.pahe.ph/) DDL site. Google Drive. Mega. 
 
-[Psarips](https://x265.club/) DDL site. Premium Filehosters. Zippyshare
+[Psarips](https://psarips.top/) DDL site. Premium Filehosters. Zippyshare
 
 [MovieAIO](https://t.me/MovieaioIN) DDL site for Indian Content. Google Drive. Torrent
 
