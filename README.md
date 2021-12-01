@@ -17,6 +17,8 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 ## Some Useful Links
 
+[Piratezparty](https://github.com/SpamVerse/Piratezparty) My friend's Warez, Must Visit :)
+
 [Realease Group Info](https://docs.google.com/spreadsheets/d/1ftgslWT47TkUSDBGUZm20OVpnhgtMyaTCjmAWsVToHQ/edit#gid=0)
 
 [Encode Info](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/edit#gid=0)
