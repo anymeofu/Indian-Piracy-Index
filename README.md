@@ -61,7 +61,7 @@ I donot own any site mentioned here. All the sites are freely available over the
 
 [Psarips](https://psarips.top/) DDL site. Premium Filehosters. Zippyshare
 
-[MovieAIO](https://t.me/MovieaioIN) DDL site for Indian Content. Google Drive. Torrent
+[MovieAIO](https://movieaio.fun/) DDL site for Indian Content. Google Drive. Torrent
 
 [Snahp.IT](https://snahp.it/) DDL site. Dlc - Jdownloader Support. Various Hosters. Tv packs
 
