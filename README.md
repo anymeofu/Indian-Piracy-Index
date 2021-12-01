@@ -15,6 +15,16 @@ DDL stands for Direct Download links, provides easy to download any file over th
 
 I donot own any site mentioned here. All the sites are freely available over the internet!
 
+## Some Useful Links
+
+[Realease Group Info](https://docs.google.com/spreadsheets/d/1ftgslWT47TkUSDBGUZm20OVpnhgtMyaTCjmAWsVToHQ/edit#gid=0)
+
+[Encode Info](https://docs.google.com/spreadsheets/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/edit#gid=0)
+
+[Private Tracker Sheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+
+[P2P and Scene Groups](https://www.notion.so/Pirates-c6362fa7a32a47c5904b0509e9ca1cd3)
+
 ## Adblockers and Important Stuff
 
 [Ublock](https://chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn?hl=en) Chrome Desktop Extension for Ad-Blocking(even Youtube)
